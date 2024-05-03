@@ -1,0 +1,18 @@
+
+      |\      _,,,---,,_
+      /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)
+
+Site name  : miAouw
+Site url   : https://miaouw.info
+
+Built with : Hugo 0.51
+Created on : ~2005
+Language   : French
+Hosted by  : Tuxfamily (https://tuxfamily.org)
+
+Author     : Lewo
+Contact    : cat (at) miaouw (dot) info
+
+Follow     : https://miaouw.info/index.xml   
